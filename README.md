@@ -1,3 +1,7 @@
+# forked version of someblocks
+
+Original here https://git.sr.ht/~raphi/someblocks/
+
 # someblocks
 Modular status bar for [somebar](https://git.sr.ht/~raphi/somebar) written in c.
 
